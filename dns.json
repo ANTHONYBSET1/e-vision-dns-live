@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "providers": [
+    {
+      "id": "rambo",
+      "name": "Rambo IPTV",
+      "host": "http://ramboiptv.net:8080",
+      "active": true,
+      "priority": 1
+    },
+    {
+      "id": "maxfax",
+      "name": "Maxfax",
+      "host": "http://maxfax.net:80",
+      "active": true,
+      "priority": 2
+    },
+    {
+      "id": "d3m65421",
+      "name": "D3M",
+      "host": "http://d3m65421.com:8080",
+      "active": true,
+      "priority": 3
+    }
+  ]
+}
