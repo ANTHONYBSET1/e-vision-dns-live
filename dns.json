@@ -21,6 +21,13 @@
       "host": "http://d3m65421.com:8080",
       "active": true,
       "priority": 3
+    },
+    {
+      "id": "ismarter",
+      "name": "Ismarter",
+      "host": "http://ismarter.xyz:2095",
+      "active": true,
+      "priority": 4
     }
   ]
 }
