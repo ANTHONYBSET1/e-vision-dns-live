@@ -70,13 +70,6 @@
       "host": "http://rtvs.me:80",
       "active": true,
       "priority": 10
-    },
-    {
-      "id": "gospeed",
-      "name": "GoSpeed",
-      "host": "http://gospeed.info:8080",
-      "active": true,
-      "priority": 11
     }
   ]
 }
