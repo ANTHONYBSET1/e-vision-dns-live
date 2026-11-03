@@ -72,9 +72,9 @@
       "priority": 10
     },
     {
-      "id": "2mtv",
-      "name": "2MTV",
-      "host": "http://2mtv.net:8080",
+      "id": "gospeed",
+      "name": "GoSpeed",
+      "host": "http://gospeed.info:8080",
       "active": true,
       "priority": 11
     }
