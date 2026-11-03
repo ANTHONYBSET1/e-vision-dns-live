@@ -28,6 +28,55 @@
       "host": "http://ismarter.xyz:2095",
       "active": true,
       "priority": 4
+    },
+    {
+      "id": "4kvision",
+      "name": "4K Vision",
+      "host": "http://4kvision.us:80",
+      "active": true,
+      "priority": 5
+    },
+    {
+      "id": "m3u4k",
+      "name": "M3U4K",
+      "host": "http://m3u4k.net:80",
+      "active": true,
+      "priority": 6
+    },
+    {
+      "id": "7tvs",
+      "name": "7TVS",
+      "host": "http://7tvs.cc:8080",
+      "active": true,
+      "priority": 7
+    },
+    {
+      "id": "cc1",
+      "name": "CC1",
+      "host": "http://cc1.xyz:8080",
+      "active": true,
+      "priority": 8
+    },
+    {
+      "id": "prorocppa",
+      "name": "Prorocppa",
+      "host": "http://prorocppa.vip",
+      "active": true,
+      "priority": 9
+    },
+    {
+      "id": "rtvs",
+      "name": "RTVS",
+      "host": "http://rtvs.me:80",
+      "active": true,
+      "priority": 10
+    },
+    {
+      "id": "2mtv",
+      "name": "2MTV",
+      "host": "http://2mtv.net:8080",
+      "active": true,
+      "priority": 11
     }
   ]
 }
